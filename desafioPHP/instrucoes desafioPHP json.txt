@@ -1,0 +1,4 @@
+- Criar Json 
+- criar um Array (receber informcacoes post)
+- transformar array em JSON
+- exportar o arquivo 

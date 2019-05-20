@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.container1{
+    width: 100%;
+    height: 8vh;
+    background-color: aquamarine;
+    margin-bottom: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.section-products{
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    margin: auto;
+    padding: 3%;
+    margin-bottom: 5%;
+
+}
+
+div.todos-produtos{
+    width: 50%;
+    height: 40vh;
+}
+
+td{
+    width: 200px;
+    height: 50px;
+    border-bottom: solid 1px black;
+}
+
+div.compra-produtos{
+    width: 50%;
+    background-color: lightblue;
+}
+
+.form-group {
+    margin-bottom: 2rem;
+    
+}
+
+#inputAddress {
+    height: 200px;
+}
+
+#inputdescription{
+    height: 250px;
+}

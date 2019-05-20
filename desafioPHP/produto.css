@@ -1,0 +1,40 @@
+*{
+ 
+}
+
+
+
+
+
+.products-view{
+    width: 80%;
+    height: 60vh;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border: solid black 1px;
+    
+}
+
+.product-img{
+    position: relative;
+    width: 40%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.img-div{
+    position: relative;
+    width: 50%;
+    height: 80%;
+    border: 1 px solid black;
+}
+
+
+.product-information{
+    position: relative;
+    width: 40%;
+    height: 100%;
+    border: solid 1px black;
+}
